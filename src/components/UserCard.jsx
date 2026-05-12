@@ -4,9 +4,9 @@ function UserCard(props) {
 
     <div>
 
-      <h2>name :{props.name}</h2>
+      <h2>{props.name}</h2>
 
-      <p>email :{props.email}</p>
+      <p>{props.email}</p>
 
     </div>
 
